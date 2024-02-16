@@ -1,0 +1,22 @@
+body {
+    font-weight: bold;
+    font-size: 20px;
+  }
+.a{
+    list-style-type:upper-roman;
+}
+.b{
+    list-style-type: lower-alpha;
+}
+.blueBackground {
+    background-color: blue;
+    color: white
+  }
+  .greenBackground {
+    background-color: green;
+    color: white
+  }
+  .redBackground {
+    background-color: red;
+    color: white
+  }
