@@ -9,6 +9,7 @@ td, th {
   padding: 10px 30px 10px 30px;
 }
 table, td, th {
+  margin: 0 auto;
   border-collapse: collapse;
   border: 1px solid #3ab5e8;
   text-align: center;
