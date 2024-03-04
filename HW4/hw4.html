@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!-- 
+  Kenneth Ha CIS 444 HW4
+  Dom2 event model 
+  buying fruits then alert total price with sales tax 7.75%
+-->
+<html lang = "en">
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <script src="script.js"></script>
+  <title> HW4 </title>
+</head>
+<body>
+  <table>
+    <caption> ThE FruItY ShOp </caption>
+    <tr>
+      <th scope="col">Pictures</th>
+      <th scope="col">Fruits</th>
+      <th scope="col">Price</th>
+      <th scope="col">Quantity</th>
+    </tr>
+    
+    <tr>
+      <td><img src="Apple.jpg"></td></td>
+      <td> Apple</td>
+      <td>.99¢</td>
+      <td><input type="number" id="apple" onchange="validate(apple.value)">
+      </td>
+    </tr>
+
+    <tr>
+      <td><img src="Orange.jpg"></td></td>
+      <td> Orange</td>
+      <td>.79¢</td>
+      <td><input type="number" id="orange" onchange="validate(orange.value)">
+      </td>
+    </tr>
+    <tr>
+      <td><img src="Bannana.jpg"></td></td>
+      <td> Banana</td>
+      <td>.59¢</td>
+      <td><input type="number" id="banana" onchange="validate(banana.value)">
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>7.75% Tax</td>
+    </tr>
+  </table>    
+  <br>
+  <input id="submit" type="submit" onclick="clicked()" value="Submit" />
+</body>
+</html>
