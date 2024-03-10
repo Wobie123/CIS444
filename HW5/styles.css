@@ -1,0 +1,15 @@
+.greenHeading{
+  color: rgb(51, 255, 51);
+}
+
+#myImage{
+  visibility: hidden;
+}
+
+body{
+  background-image: url('squidwardHouse.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
