@@ -40,6 +40,8 @@
       <th scope="col">phone</th>
       <th scope="col">divWins</th>
       <th scope="col">divLoses</th>
+      <th scope="col">ConfWins</th>
+      <th scope="col">ConfLoses</th>
       <th scope="col">overallWins</th>
       <th scope="col">overallLoses</th>
     </tr>
