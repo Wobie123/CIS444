@@ -27,7 +27,7 @@ INSERT INTO Teams (teamName, startYear, ownerName, GMName, coachName, MVP, arena
 VALUES ('Warriors', '1946', 'Joe Lacob', 'Michael Joseph Dunleavy Jr.', 'Steve Kerr', 'Steven Curry', '1 Warriors Way', 'San Francisco', 'CA', '94158', '(888)479-4667', '12', '4', '33', '19', '53', '29');
 
 INSERT INTO Teams (teamName, startYear, ownerName, GMName, coachName, MVP, arenaAddress, city, state, zipCode, phone, divWins, divLoses, confWins, confLoses, overallWins, overallLoses)
-VALUES('Lakers','1947','Buss Family Trust,'Rob Prelinka','Darvin Ham','LeBron James','Crypyo.com Arena','Los Angeles','CA','90015','(310)343-3131','46','36','29','22','3548','2454');
+VALUES('Lakers','1947','Buss Family Trust','Rob Prelinka','Darvin Ham','LeBron James','Crypto.com Arena','Los Angeles','CA','90015','(310)343-3131','46','36','29','22','3548','2454');
 
 INSERT INTO Teams (teamName, startYear, ownerName, GMName, coachName, MVP, arenaAddress, city, state, zipCode, phone, divWins, divLoses, confWins, confLoses, overallWins, overallLoses)
 VALUES('Celtics','1946','Wyc Grousbeck','Bradley Kent Stevens','Joe Mazzulla','Jayson Tatum','TD Garden','Boston','Massachusetts','02114','(617)624-1000','63','18','40','11','3632','2480');
