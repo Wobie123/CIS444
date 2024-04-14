@@ -22,7 +22,7 @@
 </head>
 
 <body>
-  <h1> Football Teams </h1>
+  <h1> NBA Teams </h1>
   <table>
     <caption>2017 Statistics</caption>
     <tr>
