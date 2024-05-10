@@ -46,4 +46,5 @@ Write, test, and debug (if necessary) each of the documents described:
 3 Create a CSS style sheet for a copy of the XML document of Exercise 2, and use it to create a display of that document.
 4 Create an XSLT style sheet for one car element of a copy of the XML document of Exercise 2, and use it to create a display of that document.
 5 Modify the XSLT style sheet of Exercise 4 to format all the car elements in a copy of the XML document of Exercise 2, and use the style sheet to create a display of the whole document.
+![1](https://github.com/Wobie123/CIS444/assets/98444199/b2ec492b-5a19-44b9-b811-3eaf51374c6a)
 
