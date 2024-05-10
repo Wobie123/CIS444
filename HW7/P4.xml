@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="XSLT5.xslt"?>
+
+<catalog>
+
+    <car>
+        <make>Toyota</make>
+        <model>Corolla</model>
+        <year>2022</year>
+        <color>Blue</color>
+        <engine>
+            <number_of_cylinders>4</number_of_cylinders>
+            <fuel_system>fuel_injected</fuel_system>
+        </engine>
+        <number_of_doors>4</number_of_doors>
+        <transmission_type>Automatic</transmission_type>
+        <accessories radio="yes" air_conditioning="yes" power_windows="yes" power_steering="yes" power_brakes="yes"/>
+    </car>
+    <car>
+        <make>Nissan</make>
+        <model>Altima</model>
+        <year>2008</year>
+        <color>Grey</color>
+        <engine>
+            <number_of_cylinders>4</number_of_cylinders>
+            <fuel_system>fuel_injected</fuel_system>
+        </engine>
+        <number_of_doors>4</number_of_doors>
+        <transmission_type>Automatic</transmission_type>
+        <accessories radio="yes" air_conditioning="yes" power_windows="yes" power_steering="yes" power_brakes="yes"/>
+    </car>
+    <car>
+        <make>Toyota</make>
+        <model>4Runner</model>
+        <year>2001</year>
+        <color>White</color>
+        <engine>
+            <number_of_cylinders>6</number_of_cylinders>
+            <fuel_system>fuel_injected</fuel_system>
+        </engine>
+        <number_of_doors>4</number_of_doors>
+        <transmission_type>Automatic</transmission_type>
+        <accessories radio="yes" air_conditioning="yes" power_windows="yes" power_steering="yes" power_brakes="yes"/>
+    </car>
+</catalog>

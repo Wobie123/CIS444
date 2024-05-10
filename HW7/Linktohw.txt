@@ -1,0 +1,3 @@
+http://cis444.cs.csusm.edu/ha134/HW7/P2.xml
+http://cis444.cs.csusm.edu/ha134/HW7/P3.xml
+http://cis444.cs.csusm.edu/ha134/HW7/P4.xml
